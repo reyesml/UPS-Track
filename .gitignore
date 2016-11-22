@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+
+#Synergy
+*.in
+*.dbp
+*.timestamp
+
